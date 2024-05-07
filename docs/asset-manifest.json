@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gizzdle/static/css/main.0e95c9a4.css",
+    "main.js": "/gizzdle/static/js/main.3d161e16.js",
+    "static/media/Circular.otf": "/gizzdle/static/media/Circular.757b8ac8efa71be3fcd0.otf",
+    "static/media/CircularLight.otf": "/gizzdle/static/media/CircularLight.5e12df08ca91cc19e9e7.otf",
+    "static/media/heardle.png": "/gizzdle/static/media/heardle.f04ff26aa88ba0bf3163.png",
+    "index.html": "/gizzdle/index.html",
+    "main.0e95c9a4.css.map": "/gizzdle/static/css/main.0e95c9a4.css.map",
+    "main.3d161e16.js.map": "/gizzdle/static/js/main.3d161e16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e95c9a4.css",
+    "static/js/main.3d161e16.js"
+  ]
+}
