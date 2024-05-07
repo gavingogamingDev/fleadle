@@ -35,11 +35,11 @@ export default function Header(){
             >
             </Modal>
 
-            <img src={require("../assets/deezer.png")} alt="deezer icon" width="25" height="25" onClick={deezerIconClick} />
-            <img src={require("../assets/info.png")} alt="info icon" width="25" height="25" onClick={infoIconClick} />
-            <h2 className="header-title">Heardle</h2>
-            <img src={require("../assets/stats.png")} alt="stats icon" width="25" height="25" onClick={statsIconClick} />
-            <img src={require("../assets/help.png")} alt="help icon" width="25" height="25" onClick={helpIconClick} />
+            {/* <img src={require("../assets/deezer.png")} alt="deezer icon" width="25" height="25" onClick={deezerIconClick} /> */}
+            {/* <img src={require("../assets/info.png")} alt="info icon" width="25" height="25" onClick={infoIconClick} /> */}
+            <h2 className="header-title">Gizzdle</h2>
+            {/* <img src={require("../assets/stats.png")} alt="stats icon" width="25" height="25" onClick={statsIconClick} /> */}
+            {/* <img src={require("../assets/help.png")} alt="help icon" width="25" height="25" onClick={helpIconClick} /> */}
         </div>
     )
 }
