@@ -13,7 +13,7 @@ export default function App(){
 
     // var playlist_ids = [248297032, 9890417302, 715215865]
     // var playlist = playlist_ids[Math.floor(Math.random() * playlist_ids.length)];
-    var playlist = 10129904482;
+    var playlist = 522845202;
 
     async function getTodaysSong() {
 
