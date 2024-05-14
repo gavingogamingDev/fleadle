@@ -42,7 +42,7 @@ export default function Game(props){
         method: 'GET',
         headers: {
             'content-type': 'application/octet-stream',
-            'X-RapidAPI-Key': process.env.REACT_APP_RAPID_API_KEY,
+            'X-RapidAPI-Key': "4ea1bf5570msh285d8ade6694852p181f8fjsn951b3956cc42",
             'X-RapidAPI-Host': 'deezerdevs-deezer.p.rapidapi.com'
         }
     };

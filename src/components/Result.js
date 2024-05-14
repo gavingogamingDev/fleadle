@@ -8,7 +8,7 @@ export default function Result(props){
     var seconds = props.songSeconds / 1000
     var second_word = seconds === 1 ? "second" : "seconds"
     var result_description = "Unlucky!"
-    var result_comment = `You didn't get today's Heardle. \n Better luck tomorrow!`
+    var result_comment = `You didn't get today's Fleadle. \n Better luck tomorrow!`
 
     var result_box_class = ["", "", "", "", "", ""]
 
@@ -26,7 +26,7 @@ export default function Result(props){
 
     if (props.isSuccessfulGuess){
         result_description = "A virtuoso performance!"
-        result_comment = `You got today's Heardle within ${seconds} ${second_word}`
+        result_comment = `You got today's Fleadle within ${seconds} ${second_word}`
         result_box_class[props.numSkips] = "correct"
     }
 

@@ -1,10 +1,10 @@
-# Heardle App Inspired React Game
+# Fleadle App Inspired React Game
 
-![Heardle App Inspired React Game](./src/assets/heardle.png)
+![Fleadle App Inspired React Game](./src/assets/fleadle.png)
 
 ## Overview
 
-This project is an inspired version of the popular "Heardle" app, a music puzzle game where players attempt to guess a song based on a snippet of its music. While not an exact replica, this clone offers a unique twist. Unlike the original game, this version does not refresh daily, providing players with a new song each time they reload the website. Additionally, the stats displayed are predefined and do not update based on gameplay.
+This project is an inspired version of the popular "Fleadle" app, a music puzzle game where players attempt to guess a song based on a snippet of its music. While not an exact replica, this clone offers a unique twist. Unlike the original game, this version does not refresh daily, providing players with a new song each time they reload the website. Additionally, the stats displayed are predefined and do not update based on gameplay.
 
 ## Features
 
@@ -22,7 +22,7 @@ This project is an inspired version of the popular "Heardle" app, a music puzzle
 
 ## Demo
 
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://alexflorides.github.io/heardle-clone/)
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://alexflorides.github.io/fleadle-clone/)
 
 ## Logic Behind the Game
 ### Song Selection with Deezer API
@@ -39,13 +39,13 @@ To enhance the visibility of search results, the game utilizes the [mark.js](htt
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/AlexFlorides/heardle-clone.git
+git clone https://github.com/AlexFlorides/fleadle-clone.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd heardle-clone
+cd fleadle-clone
 ```
 
 3. Install dependencies:
@@ -60,7 +60,7 @@ npm install
 npm start
 ```
 
-5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the Heardle App Clone in action.
+5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the Fleadle App Clone in action.
 
 ## Technologies Used
 
@@ -78,4 +78,4 @@ If you'd like to contribute to the project, please follow these steps:
 
 ## Issues
 
-If you encounter any issues with the app or have suggestions for improvement, please open an issue on the [Issues](https://github.com/AlexFlorides/heardle-clone/issues) page.
+If you encounter any issues with the app or have suggestions for improvement, please open an issue on the [Issues](https://github.com/AlexFlorides/fleadle-clone/issues) page.

@@ -13,7 +13,7 @@ export default function App(){
 
     // var playlist_ids = [248297032, 9890417302, 715215865]
     // var playlist = playlist_ids[Math.floor(Math.random() * playlist_ids.length)];
-    var playlist = 522845202;
+    var playlist = 12702237381;
 
     async function getTodaysSong() {
 
@@ -21,7 +21,7 @@ export default function App(){
             method: 'GET',
             headers: {
                 'content-type': 'application/octet-stream',
-                'X-RapidAPI-Key': process.env.REACT_APP_RAPID_API_KEY,
+                'X-RapidAPI-Key': "4ea1bf5570msh285d8ade6694852p181f8fjsn951b3956cc42",
                 'X-RapidAPI-Host': 'deezerdevs-deezer.p.rapidapi.com'
             }
         };

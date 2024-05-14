@@ -21,6 +21,6 @@ export default function MidnightTimer(){
     }, 1000);
 
     return (
-        <p className="result-text next-heardle-timer">Next Heardle in {midCountdown}</p>
+        <p className="result-text next-fleadle-timer">Next Fleadle in {midCountdown}</p>
     )
 }

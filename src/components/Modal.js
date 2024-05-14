@@ -21,7 +21,7 @@ export default function Modal(props){
             modalTitle = "About"
             modalConElement = 
                 <div className="modal-about">
-                    <p>Each daily Heardle features a clip from a popular song. Guess in as few tries as possible, and be sure to come back every day for a new song.</p>
+                    <p>Each daily Fleadle features a clip from a popular song. Guess in as few tries as possible, and be sure to come back every day for a new song.</p>
                 </div>
             break;
         case "stats":
