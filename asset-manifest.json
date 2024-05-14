@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fleadle/static/css/main.22f849ea.css",
-    "main.js": "/fleadle/static/js/main.b0261991.js",
+    "main.css": "/fleadle/static/css/main.318953a2.css",
+    "main.js": "/fleadle/static/js/main.1038420f.js",
     "static/media/Circular.otf": "/fleadle/static/media/Circular.757b8ac8efa71be3fcd0.otf",
     "static/media/CircularLight.otf": "/fleadle/static/media/CircularLight.5e12df08ca91cc19e9e7.otf",
     "static/media/heardle.png": "/fleadle/static/media/heardle.f04ff26aa88ba0bf3163.png",
     "index.html": "/fleadle/index.html",
-    "main.22f849ea.css.map": "/fleadle/static/css/main.22f849ea.css.map",
-    "main.b0261991.js.map": "/fleadle/static/js/main.b0261991.js.map"
+    "main.318953a2.css.map": "/fleadle/static/css/main.318953a2.css.map",
+    "main.1038420f.js.map": "/fleadle/static/js/main.1038420f.js.map"
   },
   "entrypoints": [
-    "static/css/main.22f849ea.css",
-    "static/js/main.b0261991.js"
+    "static/css/main.318953a2.css",
+    "static/js/main.1038420f.js"
   ]
 }
